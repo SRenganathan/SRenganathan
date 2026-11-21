@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Renganathan 👋
 
-<!--
-**SRenganathan/SRenganathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Product Manager | AI Products & Agentic Systems**
 
-Here are some ideas to get you started:
+I'm a product leader with experience across consumer technology, digital payments, and AI-driven products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I combine product strategy with hands-on AI development, exploring how Generative AI, LLMs, and AI agents can solve meaningful real-world problems.
+
+### 🔍 What I'm Exploring
+
+- AI agents and agentic workflows
+- LLM applications and tool calling
+- Retrieval-Augmented Generation (RAG) and AI evaluation
+- AI-powered product experiences
+
+### 🛠️ What You'll Find Here
+
+A collection of AI projects, experiments, and workflows that bring together **product thinking and hands-on technical implementation**.
+
+I use this space to explore ideas, build working solutions, and share what I learn along the way.
+
+### 🚀 Current Focus
+
+Building practical AI applications, experimenting with emerging technologies, and exploring how intelligent systems can create better product experiences.
+
+### 🔗 Connect
+
+[LinkedIn](https://www.linkedin.com/in/renganathansekar/)
